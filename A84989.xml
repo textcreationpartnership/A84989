@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of all the late proceedings of His Majesties Army in the county of Yorke: with the present state and condition of things there. Declaring His Majesties intention to advance his standard at Nottingham the 20 of August, and by proclamation to command all mens attendance on his person: with the number of his Army, horse and foot. Also the propositions of the malignant-party, by them now daily treated on for effecting of their mischievous designes; contrary to the laws of the land, and the liberty of the subject. Likewise how divers gentlemens houses in that county have beene lately pillaged by the troopers belonging to His Majestie. And lastly, certaine considerations towards the redresse of these groaning evils, securing the county, and preservation of the peacable subjects therein. As it was sent in a letter to Sir Philip Stapleton Knight, and by him presented to both Houses of Parliament. August 19. 1642. Ordered by the Lords in Parliament, that this letter be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84989</idno>
+            <idno type="STC">Wing F2358A</idno>
+            <idno type="STC">Thomason E112_40</idno>
+            <idno type="STC">ESTC R206243</idno>
+            <idno type="EEBO-CITATION">99865417</idno>
+            <idno type="PROQUEST">99865417</idno>
+            <idno type="VID">117657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117657)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of all the late proceedings of His Majesties Army in the county of Yorke: with the present state and condition of things there. Declaring His Majesties intention to advance his standard at Nottingham the 20 of August, and by proclamation to command all mens attendance on his person: with the number of his Army, horse and foot. Also the propositions of the malignant-party, by them now daily treated on for effecting of their mischievous designes; contrary to the laws of the land, and the liberty of the subject. Likewise how divers gentlemens houses in that county have beene lately pillaged by the troopers belonging to His Majestie. And lastly, certaine considerations towards the redresse of these groaning evils, securing the county, and preservation of the peacable subjects therein. As it was sent in a letter to Sir Philip Stapleton Knight, and by him presented to both Houses of Parliament. August 19. 1642. Ordered by the Lords in Parliament, that this letter be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>Stapleton, Philip, Sir, 1603-1647.</author>
+                  <author>England and Wales. Parliament. House of Lords. aut</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>York (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117657:1" rendition="simple:additions"/>
+            <p>A FULL RELATION Of all the late proceedings of His Majeſties Army in the County of <hi>Yorke:</hi> with the preſent ſtate and condition of things there.</p>
+            <p>Declaring His Majeſties intention to advance His Standard at <hi>Nottingham</hi> the 20 of <hi>Auguſt,</hi> and by proclamation to command all mens attendance on his Perſon: with the number of His Army, Horſe and Foot.</p>
+            <p>Alſo the Propoſitions of the Malignant-party, by them now daily treated on for effecting of their miſchievous deſignes; contrary to the Laws of the Land, and the liberty of the Subject.</p>
+            <p>Likewiſe how divers Gentlemens houſes in that County have beene lately pillaged by the Troopers belonging to His Majeſtie.</p>
+            <p>And laſtly, certaine Conſiderations towards the re<g ref="char:EOLhyphen"/>dreſſe of theſe groaning evils, ſecuring the County, and preſervation of the peaceable Subjects therein.</p>
+            <p>As it was ſent in a Letter to Sir <hi>Philip Stapleton</hi> Knight, and by him preſented to both Houſes of Parliament.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Auguſt 19. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords in Parliament, that this Letter be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117657:2"/>
+            <pb facs="tcp:117657:2" rendition="simple:additions"/>
+            <head>A true Relation from <hi>Yorke,</hi> of ſundry Occurrences concerning His MAJESTY, and His Army.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Conſtitution of affaires in this County are of ſo high importance to the generall good of the whole Land, as we conceive it requiſite to have them repreſented to the Houſe of Parliament, and to receive directions from thence, to guide the well-affected Subjects in ſuch waies as conduce to the eſtabliſh<g ref="char:EOLhyphen"/>ment of peace, here and elſewhere; and to that end the Committee when they returned to the Parliament promi<g ref="char:EOLhyphen"/>ſed frequent intercourſe, and that thoſe who ſhould be em<g ref="char:EOLhyphen"/>ployed from hence upon ſuch occaſions ſhould finde their charge and travell well rewarded, whereupon divers Gen<g ref="char:EOLhyphen"/>tlemen of the County, having met here at <hi>Yorke,</hi> this day and yeſterday, did reſolve it neceſſary to diſpatch the bea<g ref="char:EOLhyphen"/>rer, with a view of the preſent condition of the Country which they deſire you to make known to the Houſe as you ſhall finde it neceſſary.</p>
+            <p>His Majeſty hath now withdrawne all his Forces from <hi>Hull</hi> and <hi>Beverley,</hi> and ſent moſt part of his Horſe towards <hi>Newarke</hi> and <hi>Nottingham,</hi> and intends to advance his Stan<g ref="char:EOLhyphen"/>dard at <hi>Nottingham,</hi> the 20 of <hi>Auguſt,</hi> and by Proclamation
+<pb facs="tcp:117657:3"/>to command all mens attendance on his perſon, as the Pro<g ref="char:EOLhyphen"/>clamation which the bearer will deliver will more fully in<g ref="char:EOLhyphen"/>forme. His Army at this preſent conſiſts eſpecially of Horſe which are intended to be about 4000. in ſeverall Regiments, in which number we conceive is not included the 500. Horſe which certaine of the Gentry of <hi>Yorkeſhire</hi> promiſe to raiſe; nor the Traine of the Court, eſtimated at 500. Horſe. For Foot forces, here are very few viſible, and thoſe of the ſcum of the Countrey, being raiſed by beating Drums for Volunteers, yet it is ſaid that the pro<g ref="char:EOLhyphen"/>portion is 13000. foot, though in diſcourſe they declare as if 5000. foot will be ſufficient for the deſigne, which what it is, or againſt whom we know not, otherwiſe then is expreſſed in the Proclamation, for raiſing the Standard: for if it were for defence of the Proteſtant Religion, the Lawes of the Land, and priviledges of Parliament ſo often repeated, we conceive the Papiſts, who hate them all would not ſo much rejoyce, nor ſhew themſelves ſo for<g ref="char:EOLhyphen"/>ward to aſſiſt the ſervice, nor make ſo frequent reſort as now they doe into theſe parts, from <hi>Ireland, Lancaſhire,</hi> and all parts of <hi>Yorkeſhires;</hi> and beſides we obſerve the King hath ſent out warrant to call to the ſervice all Recuſants Horſe and Armes, and many Recuſants, to make themſelves capable of commands do reſort to Church.</p>
+            <p>It is given out that the King goes Southward on Tewſday next though of that we can write no certainty; But when<g ref="char:EOLhyphen"/>ſoever he goes from hence, he leaves the Earle of <hi>Cumber<g ref="char:EOLhyphen"/>land</hi> to governe theſe Northerne Counties, with authority to raiſe forces for defence of them, and a Councell of War to aſſiſt him; And to terrifie the Subjects and conſtraine obedience to the government, it is to be accompanied with a Commiſſion of <hi>Oier</hi> and <hi>Terminer,</hi> and this government and Councell, are to reſide at <hi>Yorke.</hi>
+            </p>
+            <p>You have already heard how the Gentry of this County
+<pb facs="tcp:117657:3"/>were ſummoned to appeare before his Majeſty at <hi>Yorke</hi> the fourth of this Moneth, where His Majeſty made certaine Propoſitions to them, which you have ſince ſeen in print, whereupon the Earle of <hi>Cumberland,</hi> Lord <hi>Savill,</hi> Lord <hi>Faulconbridge,</hi> all or moſt of the Commiſſioners of Array, and divers other Gentlemen of the Country, met in the Deanry at <hi>Yorke,</hi> and there framed the Petition ſent up by M. <hi>Jackſon</hi> and M. <hi>Maud</hi> to the Parliament; which though it was carried then with much ſecrecy, yet now it is divul<g ref="char:EOLhyphen"/>ged, and diſliked by a great number of the other Gentry of this County, who will proteſt againſt it in writing as ſoon as they can meet with conveniency; yet they which framed it reſolve to maintaine it, and hold meetings and conſul<g ref="char:EOLhyphen"/>tations at the Deanry in <hi>Yorke,</hi> where they treate of mat<g ref="char:EOLhyphen"/>ters of dangerous and high conſequence, and contrary to the Lawes of the Land, and the liberty of the Subject; that is to ſay,</p>
+            <p>To joyne in aſſociation with other neighbouring Coun<g ref="char:EOLhyphen"/>ties, to maintaine the petition aforeſaid.</p>
+            <p>To raiſe an Army of horſe and foote for defence of the County under the command of the Earle of <hi>Cumberland,</hi> to be laid about <hi>Yorke,</hi> and paid by the Country.</p>
+            <p>To obteine of the King an able Souldier to command in this Army under the Earle, to whom they intend the Country ſhall allow entertainment.</p>
+            <p>To conſtreine all perſons to contribute to the charge of this Army, and to diſtreine upon ſuch as refuſe it.</p>
+            <p>And to diſable the Subjects to oppoſe, or defend them<g ref="char:EOLhyphen"/>ſelves againſt this oppreſſion, they intend to diſarme, and impriſon all ſuch Gentlemen, as ſhall not conſent with them, and they have eſpecially deſigned, for impriſoning a great number of Gentlemen, who they ſuppoſe will give oppoſition to their courſes, and they have already diſ<g ref="char:EOLhyphen"/>armed part of the trained band, in every regiment, and in<g ref="char:EOLhyphen"/>tend
+<pb facs="tcp:117657:4"/>to diſarme more of them, where they finde danger of oppoſition.</p>
+            <p>And Sir <hi>Iohn Mallory</hi> in his regiment hath already cau<g ref="char:EOLhyphen"/>ſed, both money to be furniſhed to his Souldiers by the Conſtables, and Armes to be taken from the Souldiers.</p>
+            <p>Theſe Propoſitions and conſultations which are gener<g ref="char:EOLhyphen"/>ally ſpoken of, doe not a little perplex the wel affected ſub<g ref="char:EOLhyphen"/>jects; and their feares encreaſe, by divers particular affronts and attempts upon the Gentry of the Country, by the Troopers and others of the Kings Army: as the pillaging of divers Gentlemens Houſes about <hi>Hull,</hi> and pillaging Sir <hi>Henry Cholmelies</hi> Houſe neere <hi>Selby,</hi> on Sunday laſt, and Maſter <hi>George Marwoods</hi> Houſe at <hi>Nunmunckton,</hi> five miles from <hi>Yorke,</hi> on Wenſday laſt. In this of Maſter <hi>Marwoods,</hi> we will relate ſome particulars, for your better infor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>It was done in the day time, and by 24 Horſe or there a<g ref="char:EOLhyphen"/>bout, part ſtayed beyond the River, running cloſe by the Houſe, part entred the houſe, and others kept watch, that none ſhould come to hinder their attempt; They threat<g ref="char:EOLhyphen"/>ned Miſtris <hi>Marwood</hi> and her ſervants with death, to diſ<g ref="char:EOLhyphen"/>cover where her husband was: and ſwore they would cut him in peeces before her face, and called her proteſtant whore, and Puritan whore: They ſearched all the houſe, and brake open 17 locks, they tooke away all his money, being about 120. l. and all his plate they could finde; And they pretended, that they had the Kings warrant for their doings; which the King diſavowes, and is very much of<g ref="char:EOLhyphen"/>fended to have his Name ſo abuſed, and threatens to have them all hanged if they be diſcovered; And though it be Maſter <hi>Marwoods</hi> lot to ſuffer firſt, yet the looſe people threaten to pillage and deſtroy all Round-heads, and name ſome particular perſons; under which fooliſh name Round-head they comprehend all ſuch as doe not goe their wayes.</p>
+            <pb facs="tcp:117657:4"/>
+            <p>Theſe beginnings and preparations of miſery, are ne<g ref="char:EOLhyphen"/>ceſſary to be made knowne to all the Kingdome, that the good Subjects may ſtand upon their guard; for though we may aſſure our ſelves that the King will endeavour to preſerve us, yet we finde it is impoſſible to reſtraine the malice and rage, of bloody Papiſts, and faithleſſe Atheiſts; and in time theſe miſchiefes will approach other parts, though for the preſent, we lye in the mouth of danger.</p>
+            <p>Now towards the redreſſe of theſe growing evils, and ſecuring the peace of this County, and preſervation of thoſe peaceable ſubjects, intended to be diſarmed and left naked to the furie of every malicious adverſary; we offer to your Conſiderations, the Propoſitions following <hi>viz,</hi>
+            </p>
+            <p>That an Order be conceived in Parliament, and decla<g ref="char:EOLhyphen"/>red, that all the Kingdome may take notice of it; to this effect, That all well affected and good Subjects (that ſhall be plundered, pillaged, or ſuffer in their e<g ref="char:EOLhyphen"/>ſtates, by any one of the Cavalleeres or other forces raiſed without conſent of Parliament) ſhall have full reparation of their dammages, out of the eſtates of ſuch Perſons of wealth and quality, whoſe fortunes lying in the South, doe now reſide in Yorkeſhire, and with their preſence and aſſi<g ref="char:EOLhyphen"/>ſtance, doe countenance, and further theſe diſtempers of the Kingdome, and the miſchiefes, that doe happen, and are like to increaſe.</p>
+            <p>That there may be ſpeedily ſent to <hi>Hull</hi> a ſufficient pro<g ref="char:EOLhyphen"/>portion of powder, bullets, Armes, ordnance and other mu<g ref="char:EOLhyphen"/>nition, with an Order to furniſh the Country with them, as there ſhall be occaſion, eſpecially to ſuch as ſhall be diſar<g ref="char:EOLhyphen"/>med upon the conſultations held in the Deanery.</p>
+            <p>That Commiſſions bee ſpeedily ſent downe from the Earle of <hi>Eſſex,</hi> Lord Leivtenant of this County, to the Gen<g ref="char:EOLhyphen"/>tlemen named in this incloſed paper, or ſuch of them as the Houſe ſhall elect, for the preſent, to raiſe and command the
+<pb facs="tcp:117657:5"/>forces of this Country, for ſuppreſſing of any inſurrections or unlawfull Tumults that may happen to ariſe.</p>
+            <p>That the Sheriffe bee commanded by ſpeciall Order of Parliament, to conduct and aſſiſt them, as the Houſe con<g ref="char:EOLhyphen"/>ceives fitting.</p>
+            <p>This liſt of Gentlemen for Commanding the Country forces, is not intended to diſappoint any, of truſt or com<g ref="char:EOLhyphen"/>mand, who are already nominated, and intruſted by the Parliament: nor are they intended to be continued longer then untill ſome other proviſion by act be concluded on, by the King and Parliament, for ſetling and ordering the Militia.</p>
+            <p>And laſtly it is the deſire of the well affected in this Country, to receive weekely advertiſements from thence, by ſome eſpecially employed for that purpoſe, untill af<g ref="char:EOLhyphen"/>faires be ſo ſetled, as we may ſafely confide in the ordinary poſt; for now we neither rightly underſtand the proceed<g ref="char:EOLhyphen"/>ings of the Houſe, nor can we repreſent to them ſuch mat<g ref="char:EOLhyphen"/>ters as concerne the peace of the Country.</p>
+            <p>All which we hope you will bee pleaſed to repreſent to the Houſe, as the unanimous conſiderations of a great num<g ref="char:EOLhyphen"/>ber of the Gentry of the Country.</p>
+            <closer>
+               <dateline>
+                  <date>13. Auguſt. 1642.</date>
+               </dateline>
+               <signed>And we remaine your moſt affectionate friends and ſervants.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
